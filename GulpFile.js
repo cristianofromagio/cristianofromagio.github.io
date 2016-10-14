@@ -1,4 +1,4 @@
-const _PROJECTNAME = 'dbarjs';
+const _PROJECTNAME = 'cristianofromagio';
 
 var gulp = require('gulp'),
 	watch = require('gulp-watch'),
